@@ -1,3 +1,4 @@
+"use strict";
 // generate CRC32 lookup table
 const crctable = (new Uint32Array(256)).map((t,crc)=>{
     for(let j=0;j<8;j++){

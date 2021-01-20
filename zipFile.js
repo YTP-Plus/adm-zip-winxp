@@ -1,3 +1,4 @@
+"use strict";
 var ZipEntry = require("./zipEntry"),
 	Headers = require("./headers"),
 	Utils = require("./util");

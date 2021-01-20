@@ -1,3 +1,4 @@
+"use strict";
 const {expect} = require('chai');
 const Attr = require("../util").FileAttr;
 const Zip = require("../adm-zip");
